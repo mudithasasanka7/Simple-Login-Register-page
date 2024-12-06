@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Web Form with Time</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="time-container">
+    <span id="current-time"></span>
+  </div>
+  <div class="form-container">
+    <!-- Left Content -->
+    <div class="left-content" id="left-content">
+      <h1 id="left-title">Welcome Back!</h1>
+      <p id="left-text">To keep connected, please log in with your credentials.</p>
+    </div>
+
+    <!-- Right Content -->
+    <div class="right-content">
+      <!-- Toggle Buttons -->
+      <div class="form-toggle">
+        <button id="login-btn" onclick="showLogin()">Login</button>
+        <button id="register-btn" onclick="showRegister()">Register</button>
+      </div>
+
+      <!-- Forms -->
+      <form id="login-form" class="active">
+        <h2>Login</h2>
+        <input type="text" placeholder="Username" required>
+        <input type="password" placeholder="Password" required>
+        <button type="submit">Login</button>
+      </form>
+
+      <form id="register-form">
+        <h2>Register</h2>
+        <input type="text" placeholder="First Name" required>
+        <input type="text" placeholder="Last Name" required>
+        <input type="email" placeholder="Email" required>
+        <input type="password" placeholder="Password" required>
+        <input type="password" placeholder="Confirm Password" required>
+        <button type="submit">Register</button>
+      </form>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
