@@ -16,16 +16,10 @@ This project is a responsive, animated login and registration web form with dyna
 ## Screenshots
 
 ### 1. **Login Form**
-![Login Form](time.png)
+![Login Form](./time.png)
 
 ### 2. **Register Form**
-![Register Form](register.png)
+![Register Form](./register.png)
 
 ---
 
-## How to Run the Project
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourusername/responsive-animated-webform.git
-cd responsive-animated-webform
