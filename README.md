@@ -1,6 +1,6 @@
 # Responsive Animated Web Form
 
-This project is a responsive, animated login and registration web form with dynamic background, live clock display, and creative design using **HTML**, **CSS**, and **JavaScript**. The form adjusts seamlessly across devices (mobile, tablet, and desktop) and includes dynamic content switching with animation.
+This project is a responsive, animated login and registration web form with a dynamic background, live clock display, and creative design using **HTML**, **CSS**, and **JavaScript**. The form adjusts seamlessly across devices (mobile, tablet, and desktop) and includes dynamic content switching with animation.
 
 ---
 
@@ -16,7 +16,7 @@ This project is a responsive, animated login and registration web form with dyna
 ## Screenshots
 
 ### 1. **Login Form**
-![Login Form](./login.png)
+![Login Form](./time.png)
 
 ### 2. **Register Form**
 ![Register Form](./register.png)
