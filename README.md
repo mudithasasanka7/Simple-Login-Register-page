@@ -16,10 +16,7 @@ This project is a responsive, animated login and registration web form with dyna
 ## Screenshots
 
 ### 1. **Login Form**
-![Login Form](./time.png)
+![Login Form](./login.png)
 
 ### 2. **Register Form**
 ![Register Form](./register.png)
-
----
-
